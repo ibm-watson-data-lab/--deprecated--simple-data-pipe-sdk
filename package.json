@@ -1,6 +1,6 @@
 {
   "name": "simple-data-pipe-sdk",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "SDK for Simple Data Pipe",
   "main": "./lib",
   "scripts": {
