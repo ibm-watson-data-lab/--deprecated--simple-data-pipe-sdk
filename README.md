@@ -1,6 +1,8 @@
 # Simple Data Pipe Connector SDK
 SDK for creating [Simple Data Pipe](https://github.com/ibm-cds-labs/simple-data-pipe) [custom connectors](https://developer.ibm.com/clouddataservices/simple-data-pipe-connectors/).
 
+[![Build Status](https://travis-ci.org/ibm-cds-labs/simple-data-pipe-sdk.svg?branch=master)](https://travis-ci.org/ibm-cds-labs/simple-data-pipe-sdk)
+
 #### License 
 
 Copyright [2015-2016] [IBM Cloud Data Services]
