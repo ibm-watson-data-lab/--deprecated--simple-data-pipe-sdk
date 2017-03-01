@@ -24,7 +24,7 @@
     "moment": "^2.10.3",
     "node-schedule": "~0.2.9",
     "path": "^0.12.7",
-    "request": "~2.58.0",
+    "request": "~2.68.0",
     "when": "~3.7.3"
   },
   "author": "david_taieb@us.ibm.com",
